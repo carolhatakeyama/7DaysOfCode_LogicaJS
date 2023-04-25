@@ -32,7 +32,7 @@ Já no primeiro dia, você vai ver como o que parece ser um simples detalhe pode
 Não é só de condições e operações booleanas que um código vive, então no segundo dia do desafio de lógica de programação você irá aprender a trabalhar com captura de inputs e como armazenar essas informações em variáveis para usá-las durante a execução do seu programa.
 
 ## Status do Projeto
-2/7
+![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Linguagens Utilizadas
 * JS
