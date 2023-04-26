@@ -28,7 +28,7 @@ Durante os 7 Days de Lógica com Javascript, você vai praticar com a linguagem 
 
 
 ## Desafios
-### 1/7: Operações Booleanas
+### [1/7: Operações Booleanas](./main/Javascript/Dia%2001)
 
 Já no primeiro dia, você vai ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como você implementar o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, você aprenderá mais sobre o comando if e operações booleanas dentro do JS
 
@@ -57,7 +57,7 @@ Depois de praticar como inserir e manipular itens dentro de uma lista, você ent
 Até aqui, você terá trabalhado em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e último dia do desafio, você desenvolverá um projeto maior, para ver como a organização ou falta dela pode afetar a sua produção de código e muitas vezes causar erros que você normalmente não cometeria.
 
 ## Status do Projeto
-![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Linguagens Utilizadas
 * JS
