@@ -32,7 +32,7 @@ Durante os 7 Days de Lógica com Javascript, você vai praticar com a linguagem 
 
 Já no primeiro dia, você vai ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como você implementar o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, você aprenderá mais sobre o comando if e operações booleanas dentro do JS
 
-### 2/7: Variáveis
+### [2/7: Variáveis](./Javascript/Dia%2002)
 
 Não é só de condições e operações booleanas que um código vive, então no segundo dia do desafio de lógica de programação você irá aprender a trabalhar com captura de inputs e como armazenar essas informações em variáveis para usá-las durante a execução do seu programa.
 
